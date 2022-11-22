@@ -1,6 +1,7 @@
 # 👋 BOOOO0 
 
-# 💻 studying
+💻 studying
+---
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -9,8 +10,8 @@
 </div>
 
 
-# 📄 stats
-
+📄 stats
+---
 ![BOOOO0's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOOOO0&show_icons=true&theme=tokyonight)      
   
 
