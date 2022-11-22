@@ -9,6 +9,9 @@
   <br/>
 </div>
 
+📖 education
+---
+- `Sejong University, software engineering (2016.02~)`
 
 📄 stats
 ---
