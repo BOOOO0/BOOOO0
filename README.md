@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=black">
   <br/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
+  <img src="https://img.shields.io/badge/Kubernetes-#326CE5?style=for-the-badge&logo=Kubernetes&logoColor=black">
   <br/>
 </div>
 
