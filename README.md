@@ -1,7 +1,12 @@
 # 👋 BOOOO0 
 
 - Cloud Engineer
-- DevOps
+  - Cloud Infrastructure
+  - IaC
+  - Automation
+  - CI/CD
+  - Container Orchestration
+  - Monitoring
 
 📖 education
 ---
