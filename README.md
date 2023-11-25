@@ -1,6 +1,6 @@
 # 👋 BOOOO0 
 
-- Cloud Engineer
+- DevOps Engineer
   - Cloud Infrastructure
   - IaC
   - Automation
