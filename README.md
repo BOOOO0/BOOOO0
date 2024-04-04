@@ -1,6 +1,6 @@
 # 👋 BOOOO0 
 
-  - Cloud Infrastructure
+  - Infrastructure
   - IaC
   - Automation
   - CI/CD
