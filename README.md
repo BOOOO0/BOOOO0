@@ -1,12 +1,14 @@
 # 👋 BOOOO0 
 
-- DevOps Engineer
   - Cloud Infrastructure
   - IaC
   - Automation
   - CI/CD
   - Container Orchestration
   - Monitoring
+  - Java/Spring
+  - Python/FastAPI
+  - JavaScript(Node.js)/React
 
 📖 education
 ---
