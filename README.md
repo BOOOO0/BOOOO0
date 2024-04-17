@@ -6,9 +6,6 @@
   - CI/CD
   - Container Orchestration
   - Monitoring
-  - Java/Spring
-  - Python/FastAPI
-  - JavaScript(Node.js)/React
 
 📖 education
 ---
