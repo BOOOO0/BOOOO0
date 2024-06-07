@@ -1,16 +1,12 @@
-# 👋 BOOOO0 
+세종대학교 소프트웨어학과 졸업한 정부영입니다.
 
-  - Infrastructure
-  - IaC
-  - Automation
-  - CI/CD
-  - Container Orchestration
-  - Monitoring
+프론트엔드 개발자를 희망하다가 JS 풀스택 개발자를 희망하다가
+배포와 인프라에 관심이 생겨서 데브옵스를 희망하다가
+지금은 AI 회사에서 파이썬 개발자를 하게 되었습니다.
 
-📖 education
----
-- `Sejong University, software engineering (2016.03 ~ 2024.02)`
-- `SeSAC AWS Korea와 함께하는 클라우드 아키텍트 과정 (2023.11 ~ 2024.03)`
+앞으로 무엇을 하게 될 지 내가 어떤 사람이 될 지 모르지만
+지금까지 해온 것은 그리고 앞으로도 항상 하게 될 것은
+해내야 할 것을 해내는 것 밖에 없는 것 같습니다.
 
 
 
